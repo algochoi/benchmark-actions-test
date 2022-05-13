@@ -6,7 +6,7 @@ func Fib(u uint) uint {
 	if u <= 1 {
 		return 1
 	}
-	for i := 1; i <= 10; i++ {
+	for i := 1; i <= 1; i++ {
 		x := 1
 		x++
 		time.Sleep(1)
