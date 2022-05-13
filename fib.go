@@ -9,7 +9,7 @@ func Fib(u uint) uint {
 	for i := 1; i <= 1; i++ {
 		x := 1
 		x++
-		time.Sleep(1)
+		time.Sleep(5)
 	}
 
 	return Fib(u-2) + Fib(u-1)
