@@ -1,6 +1,6 @@
 name: Minimal setup
 on:
-  pull_request:
+  push:
 
 jobs:
   benchmark:
